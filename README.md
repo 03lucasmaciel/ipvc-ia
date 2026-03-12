@@ -5,16 +5,13 @@
 	<a href="https://www.ipvc.pt">
 		<img src="week-0/assets/logo_ipvc_svg2-sunrise.svg" alt="IPVC Logo" width="600">
 	</a>
-
-    <h3 align="center">IPVC Artificial Intelligence Coursework Repository</h3>
-
-    <p align="center">
-    	A centralized repository for all practical assignments developed in the Artificial Intelligence course
-    	of the Computer Engineering degree at IPVC.
-    	<br />
-    	<a href="https://github.com/03lucasmaciel/ipvc-ia"><strong>Explore the repository »</strong></a>
-    </p>
-
+	<h3 align="center">IPVC Artificial Intelligence Coursework Repository</h3>
+	<p align="center">
+		A centralized repository for all practical assignments developed in the Artificial Intelligence course
+		of the Computer Engineering degree at IPVC.
+		<br />
+		<a href="https://github.com/03lucasmaciel/ipvc-ia"><strong>Explore the repository »</strong></a>
+	</p>
 </div>
 
 <details>
